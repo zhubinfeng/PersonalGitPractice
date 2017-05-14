@@ -15,7 +15,7 @@ import java.util.List;
 public class BoxDrawingView extends View {
     //Add annotation to test
     private static final String TAG = "BoxDrawingView";
-
+	//Add annotation by local to test
     private Box mCurrentBox;
     private List<Box> mBoxen = new ArrayList<>();
     private Paint mBoxPaint;
