@@ -17,6 +17,7 @@ public class BoxDrawingView extends View {
     private static final String TAG = "BoxDrawingView";
 	//Add annotation by local to test
     private Box mCurrentBox;
+	//Add annotation by local modify to test
     private List<Box> mBoxen = new ArrayList<>();
     private Paint mBoxPaint;
     private Paint mBackgroundPaint;
