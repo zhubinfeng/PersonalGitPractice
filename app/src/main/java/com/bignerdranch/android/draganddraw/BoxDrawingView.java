@@ -13,6 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class BoxDrawingView extends View {
+    //Add annotation to test
     private static final String TAG = "BoxDrawingView";
 
     private Box mCurrentBox;
